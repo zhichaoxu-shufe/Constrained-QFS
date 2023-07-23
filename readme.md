@@ -14,14 +14,14 @@ pip3 install -r requirements.txt
 
 #### Finetune the backbone LM
 need to configure the path and hyperparameters accordingly, a sample bash file is 
-'''bash
+```bash
 bash run_finetune.sh
-'''
+```
 #### Decode
 need to configure the path and hyperparameters accordingly, a sample bash file is 
-'''bash
+```bash
 bash run_decode.sh
-'''
+```
 
 
 #### Citation:
