@@ -1,7 +1,7 @@
 
 
 ## A Lightweight Constrained Generation Alternative for Query-focused Summarization
-This is the official code implementation for arXiv manuscript: [A Lightweight Constrained Generation Alternative for Query-focused Summarization](https://dl.acm.org/doi/pdf/10.1145/3539618.3591936)
+This is the official code implementation for SIGIR 23 Short Paper: [A Lightweight Constrained Generation Alternative for Query-focused Summarization](https://dl.acm.org/doi/pdf/10.1145/3539618.3591936)
 
 A significant part of this code repo comes from [Neurological Decoding Code Repo](https://github.com/GXimingLu/neurologic_decoding)
 
