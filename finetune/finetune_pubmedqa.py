@@ -156,7 +156,7 @@ if __name__ == '__main__':
         '--input_format', 
         type=str, 
         default='t5-prompt',
-        choices=['bart-concat', 'bart-context_only', 't5-summarize', 't5-prompt']
+        choices=['bart-concat', 't5-summarize']
     )
     parser.add_argument('--valid_batch_size', type=int, default=4)
 
